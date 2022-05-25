@@ -1,0 +1,190 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    
+    <p class="post-meta">
+      <span class="post-categories">
+        {% if post %}
+          {% assign categories = post.categories %}
+        {% else %}
+          {% assign categories = page.categories %}
+        {% endif %}
+        {% for category in categories %}
+        <a href="{{site.baseurl}}/category/{{category|slugify}}">{{category}}</a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+        {% endfor %}
+      </span>
+    </p>
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta"> 
+      
+      {%- include byline.html -%}  
+
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%-m/%-d/%Y"  -%}  
+        &nbsp;&nbsp;{% octicon clock height:16 class:"" aria-label:hi %} &nbsp;
+        {{ page.date | date: date_format }}  
+        <!-- {{ page.date | timeago }} -->
+        &nbsp;&nbsp; 
+        <!-- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}   -->
+        <!-- {{ page.date | date: date_format }}   -->
+      </time>   
+    </p>
+    <div class="feat-img-box color">
+      {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
+    </div>
+  </header>
+
+  <div class="post-content e-content {% if page.dropcap %}dropcap{% endif %}" itemprop="articleBody">
+    {{ content }}
+
+    
+    {%- if post.tags -%} 
+    <div class="post-tags">
+      {% octicon tag height:24 class:"right left" aria-label:hi %}
+      {% if post %}
+        {% assign tags = post.tags %}
+      {% else %}
+        {% assign tags = page.tags %}
+      {% endif %}
+      {% for tag in tags %}
+      <a href="{{site.baseurl}}/tag/{{tag|slugify}}">{{tag}}</a>
+      {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %} 
+    </div>
+    {%- endif -%}
+
+    
+    {%- if page.source -%} 
+
+      <h1 class="archives-header">
+        Source 
+        <div class="right">{% octicon link height:24 class:"right left" aria-label:Comment %}</div>
+      </h1>
+      <p><a href="{{ page.source }}" data-iframely-url></a></p>
+
+    {%- elsif page.author -%}
+
+      {% for person in site.authors %}
+        {% if person.github == page.author %}
+          <h1 class="archives-header">
+            Author <span>{{ person.name }}</span>
+            <div class="right">{% octicon person height:24 class:"right left" aria-label:Author %}</div>
+          </h1>
+
+          <a href="{{ site.baseurl }}{{ person.url }}" data-iframely-url></a>
+        {% endif %}
+      {% endfor %}
+    {%- else -%}
+
+    {%- endif -%}
+
+    {%- if page.comments == false -%}
+      <h1 class="archives-header">
+        Comments <span>closed</span>
+        <div class="right">{% octicon stop height:24 class:"right left" aria-label:Comment %}</div>
+      </h1>
+    {%- else -%}
+
+    <h1 class="archives-header">
+      Comment <span><small>with GitHub</small></span>
+      <div class="right">{% octicon comment height:24 class:"right left" aria-label:Comment %}</div>
+    </h1>
+    <script src="https://utteranc.es/client.js"
+        repo="tblobaum/thenewworldpost.com"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+    </script>
+    {%- endif -%}
+    
+    <form action="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}{{ site.github.source.path }}/{{ page.path }}">
+      <button class="btn btn-secondary right" type="submit" style="line-height:16px;">{% octicon tools height:16 class:"right left" aria-label:Edit %} &nbsp; Suggest a correction</button>
+    </form>
+    <br> <br> 
+    
+    <div class="w100 ">
+      <div class="w100">
+        {%- include newsletter-subscribe.html -%}
+      </div>
+    </div> 
+
+    {%- if site.disqus.shortname -%}
+      {%- include disqus_comments.html -%}
+    {%- endif -%}
+
+    <br> 
+
+    {% if post %}
+    {% assign categories = post.categories %}
+    {% else %}
+    {% assign categories = page.categories %}
+    {% endif %}
+    {% for category in categories %}
+    {% if forloop.last %}
+    <div class="w100 ">
+      <h1 class="archives-header">
+        {{category}}
+     <span>Posts</span>
+        {% octicon globe height:24 class:"right" aria-label:hi %}
+      </h1>
+      <ul class="left post-list posts archives box">
+          {% for post in site.posts offset:0 limit:99 %} 
+            {% if post.categories contains category or post.category == category %}
+              {% include postbox.html %}
+            {% endif %}   
+          {% endfor %} 
+      </ul> 
+    </div>
+    {% endif %}
+    {% endfor %}
+    
+    {% if post %}
+    {% assign tags = post.tags %}
+    {% else %}
+    {% assign tags = page.tags %}
+    {% endif %}
+    {% for tag in tags %}
+    {% if forloop.first %}
+    <div class="w100">
+      <h1 class="archives-header">
+        {{tag}} <span>Posts</span>
+        {% octicon tag height:24 class:"right" aria-label:hi %}
+      </h1>
+      <ul class="left post-list posts archives box">
+          {% for post in site.posts limit: 999 %}
+              {% if post.tags contains tag or post.tag == tag %}
+                  {% include postbox.html %}
+              {% endif %} 
+          {% endfor %} 
+      </ul> 
+    </div>
+    {% endif %}
+    {% if forloop.last %} {% endif %}
+    {% endfor %} 
+    
+    <div class="w100">
+      <h1 class="archives-header">
+        Latest <span>Posts</span>
+        {% octicon flame height:24 class:"right" aria-label:hi %}
+      </h1>
+      <ul class="left post-list posts archives box">
+          {% for post in site.posts offset:0 limit:4 %} 
+            {% include postbox.html %} 
+          {% endfor %} 
+      </ul> 
+    </div>
+
+  </div>
+
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+
+</article>
+
+

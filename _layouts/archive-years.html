@@ -1,0 +1,21 @@
+---
+layout: default 
+---
+
+<div class="w50 left">
+    <h1 class="archives-header">{{ page.year }} <span>Posts</span></h1>
+    <ul class="post-list posts archives box">
+        {% for post in site.posts %}
+            {% assign postyear = post.date | date: "%Y" %}
+            {% if postyear == page.year %}
+                {% include postbox.html %}
+            {% endif %}    
+        {% endfor %}
+    </ul>
+</div>
+
+<div class="w50 left">
+  <div class="w50 right">
+    {%- include newsletter-subscribe.html -%}
+  </div>
+</div>

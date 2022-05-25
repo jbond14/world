@@ -1,0 +1,21 @@
+---
+layout: default
+title: Archive
+---
+
+<div class="w50 left">
+    <h1 class="archives-header">{{ page.category }} <span>Posts</span></h1>
+    <ul class="post-list posts archives box">
+        {% for post in site.posts offset:0 %}
+            {% if post.categories contains page.category or post.category == page.category %}
+                {% include postbox.html %}
+            {% endif %}    
+        {% endfor %}
+    </ul>
+</div>
+
+<div class="w50 left">
+  <div class="w50 right">
+    {%- include newsletter-subscribe.html -%}
+  </div>
+</div>
