@@ -1,11 +1,11 @@
 ---
 layout: post
 author: Adam Baum 
-title: "There’s a disturbing nexus of organic food and white supremacists"
+title: "There’s a nexus of organic food and white supremacists"
 date: 2022-03-22 04:20:00 -0600
 categories: USA  
 tags: 
-featured-image: jake-angeli.jpeg
+featured-image: jake-angeli.jpg
 featured-image-alt: Jake Angeli 
 dropcap: on 
 ---
