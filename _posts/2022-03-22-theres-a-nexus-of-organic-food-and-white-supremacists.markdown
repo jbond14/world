@@ -8,6 +8,7 @@ tags:
 featured-image: jake-angeli.jpg
 featured-image-alt: Jake Angeli 
 dropcap: on 
+source: https://www.fastcompany.com/90593995/theres-a-disturbing-nexus-of-organic-food-and-white-supremacists 
 ---
 One of the Capitol rioters asked to be served only organic food in jail. It’s not just a weird personal quirk.
 
