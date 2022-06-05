@@ -5,7 +5,7 @@ title: "Mugshots stay online forever. Some say the police should stop making the
 date: 2022-03-28 04:20:00 -0600
 categories: World  
 tags: 
-featured-image: opengraph.jpg
+featured-image: opengraph.png
 featured-image-alt: Default Image
 dropcap: on 
 featured: no 

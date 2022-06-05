@@ -5,7 +5,7 @@ title: "Farmers’ Markets Have Unwelcome Guests: Fascists"
 date: 2022-03-24 04:20:00 -0600
 categories: USA  
 tags: 
-featured-image: opengraph.jpg
+featured-image: opengraph.png
 featured-image-alt: Default Image
 dropcap: on 
 source: https://www.thedailybeast.com/farmers-markets-have-new-unwelcome-guests-fascists

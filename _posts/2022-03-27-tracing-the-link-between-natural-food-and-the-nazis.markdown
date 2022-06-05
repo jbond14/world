@@ -5,7 +5,7 @@ title: "Tracing the link between natural food and the Nazis"
 date: 2022-03-27 04:20:00 -0600
 categories: World  
 tags: 
-featured-image: opengraph.jpg
+featured-image: opengraph.png
 featured-image-alt: Default Image
 dropcap: on 
 featured: no 
