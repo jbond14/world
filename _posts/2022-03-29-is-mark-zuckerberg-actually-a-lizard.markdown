@@ -5,8 +5,8 @@ title: "Is Mark Zuckerberg actually a lizard?"
 date: 2022-03-29 04:20:00 -0600
 categories: World  
 tags: 
-featured-image: opengraph.png
-featured-image-alt: Default Image
+featured-image: jewzilla.jpg
+featured-image-alt: Jewzilla
 dropcap: on 
 featured: no 
 source: https://www.berkeleysquares.co.uk/2021/10/is-mark-zuckerberg-actually-a-lizard/ 
