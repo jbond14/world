@@ -23,10 +23,6 @@ layout: default
 <div class="w100">
   <div class="w50 right">
 
-    <div class="w100 right">
-      {%- include zodiac.html -%}
-    </div>
-
     <h1 class="archives-header">World <span>News</span></h1>
     <ul class="post-list posts archives box">
       <!-- Of the first 12 posts in site.posts how many are of the category world -->
@@ -70,19 +66,19 @@ layout: default
   </div>
 
   <div class="w50 left" style="width: 49%;max-width: 49%;min-width: 49%;margin-right: 10px;">
-    
-    <h1 class="archives-header">Blackshirts <span>News</span></h1>
-    <ul class="post-list posts archives box">
-        {% assign posts = site.posts | where: 'tags', 'Blackshirts' %}
-        {% for post in posts offset:0 limit: 99 %}
-        {% if post.tags contains "Blackshirts" or post.tag == "Blackshirts" %}
-        {% include postbox.html %}
-        {% endif %}
-        {% endfor %}
-    </ul>
 
-    <h1 class="archives-header">Political <span>News</span></h1>
-    <ul class="post-list posts archives box">
+      <h1 class="archives-header">Blackshirts <span>News</span></h1>
+      <ul class="post-list posts archives box">
+          {% assign posts = site.posts | where: 'tags', 'Blackshirts' %}
+          {% for post in posts offset:0 limit: 99 %}
+          {% if post.tags contains "Blackshirts" or post.tag == "Blackshirts" %}
+          {% include postbox.html %}
+          {% endif %}
+          {% endfor %}
+      </ul>
+
+      <h1 class="archives-header">Political <span>News</span></h1>
+      <ul class="post-list posts archives box">
           {% assign politics_posts_count = 0 %}
           {% for post in site.posts offset:0 limit:13 %}
           {% if post.categories contains "Politics" or post.category == "Politics" %}
@@ -96,7 +92,7 @@ layout: default
           {% endfor %}
       </ul>
 
-
+      {%- include zodiac.html -%} 
   </div>
 
 </div> 
