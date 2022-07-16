@@ -2,7 +2,7 @@
 layout: post
 author: Keri Blakinger
 title: "Mugshots stay online forever. Some say the police should stop making them public."
-date: 2022-03-28 04:20:00 -0600
+date: 2021-11-15 04:20:00 -0600
 categories: World  
 tags: 
 featured-image: opengraph.png
