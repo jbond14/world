@@ -1,25 +1,29 @@
 ---
 layout: post
-author: Alex Wilson 
-title: "Is Mark Zuckerberg actually a lizard?"
-date: 2022-03-29 04:20:00 -0600
-categories: World  
-tags: 
-featured-image: jewzilla.jpg
-featured-image-alt: Jewzilla
+author: Adam Baum 
+title: "University of Nebraska Student Organic Farm opens its second season of sales"
+date: 2022-04-27 04:20:00 -0600
+categories: Nebraska   
+tags: unl
+featured-image: organic-farm.jpg
+featured-image-alt: Organic farm 
 dropcap: on 
 featured: no 
-source: https://www.berkeleysquares.co.uk/2021/10/is-mark-zuckerberg-actually-a-lizard/ 
+source: 
 ---
-One of life’s timeless questions: ‘are the elite that control our lives reptilian alien accomplices?’ Alongside the other accused, such as Simon Cowell and George W Bush, they have constantly attempted to dismiss rumours which seem to never go away. Is it possible that there is any truth to these theories?
+Students work in the Student Organic Farm during the 2021 growing season. The farm is again offering shares to faculty, staff and students who wish to receive items grown in the garden.
 
-These claims came to a head in a livestreamed Q & A in 2016 when Zuckerberg’s chat was spammed with questions asking whether he was indeed actually a lizard. This forced a response from the Facebook billionaire. He read out a specific question, “Mark, are the allegations true that you are secretly a lizard?”. He replied in the negative and condemned the question as “very silly”. Sounds like something a lizard would say, no?
+Working to reduce food insecurities on campus while providing education and organic, fresh produce to residents, the University of Nebraska-Lincoln Student Organic Farm opens its second season of sales this spring.
 
-Before this conspiracy got hijacked by the meme community, where did the belief that the elites are secretly alien lizards come from? Originally it hails from anti-Semitic roots, with rich Jewish families such as the Rothschilds being depicted as Lizards ruling the world in popular cartoons. These old texts inspired respectable sports journalist David Icke, who added a new modern take.
+The student run organization started in 2013 with a small plot of land on East Campus behind the College of Law’s McCollum Hall and is currently run by students from multiple disciplines including several from landscape architecture.
 
-Icke has published many books featuring conspiracy theories, which has gained him much publicity and notoriety. In his bestseller “The Biggest secret”, published in 1999, he introduces these theories to us: in this Dark New Age a group of reptoids control us from an Illuminati type group. Popular belief pounces on this to place Zuckerberg in this category, likely due to his enormous net worth and slightly odd mannerisms which some pin down to him not being human.
+“We use organic and sustainable methods of farming to grow produce that we sell throughout the year to students, faculty, staff and their families or anyone who wants to get involved with our organization,” said Ben Roberson, landscape architecture student and farm treasurer.
 
-However, in order to maintain any remaining credibility I may have as a journalist, it is unlikely to be true. Mark Zuckerberg is probably not an alien lizard came down to rule over us, just a slightly socially awkward tech tycoon.
+The students use no synthetic herbicides, pesticides or fertilizers. Instead, the students utilize intercropping methods and local composting.
 
+For a span of 21 weeks, they will provide share purchasers with weekly pickups of fresh produce that will vary by growing season. In the spring they offer lettuce, spinach, kale and garlic scrapes; in the summer, fruits and vegetables such as cucumbers, tomatoes, peppers, eggplants and beans; and in the fall tomatoes, peppers, squash etc. The spring share costs $100, summer $250 and fall is $150 and are available first come, first serve. However, if you are a student volunteer helping plant, maintain and run the farm, the shares are free.
 
+Individuals interested in purchasing a share from the garden can visit the university’s Marketplace for spring and summer produce, and the fall shares will be available mid-summer. Additionally, there are sponsorships available for $500, and they gladly accept in-kind donations and volunteer assistance. Anyone interested in volunteering or making a donation should contact unlstudentorganicfarm@gmail.com.
+
+“Being involved with this organization has definitely helped with my connections,” said Roberson. “You get to meet a lot of great people who know a lot about plants, and it benefits the community with growing dividends.”
 
