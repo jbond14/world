@@ -5,8 +5,8 @@ title: "German neo-Nazis take to organic farming"
 date: 2022-03-26 04:20:00 -0600
 categories: World  
 tags: 
-featured-image: opengraph.png
-featured-image-alt: Default Image
+featured-image: diet-far-right-germany.webp
+featured-image-alt: Organic
 dropcap: on 
 featured: no 
 source: https://grist.org/food/german-neo-nazis-take-to-organic-farming/ 
