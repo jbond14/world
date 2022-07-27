@@ -7,6 +7,8 @@ categories: World
 tags: 
 featured-image: pi-planet.jpg
 featured-image-alt: Pi Planet 
+dropcap: on
+featured: no
 ---
 The research notes the ‘pi planet’ known as K2-315b is relatively close to Earth at 186 light-years away
 
