@@ -1,7 +1,7 @@
 ---
 layout: post 
 author: Adam Baum 
-title:  "Jeremy Grantham Warns Only The Rich Will Procreate As Chemicals Leave The Poor Sterile"
+title:  "The Curious Case Of Baalzebul"
 date:   2022-06-19 04:20:00 -0600
 categories: World
 tags: Doomsday Baal Baalzebul Baalzebub Jeroboam 
