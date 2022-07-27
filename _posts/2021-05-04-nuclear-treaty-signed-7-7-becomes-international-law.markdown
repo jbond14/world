@@ -5,8 +5,8 @@ title:  "Nuclear Treaty Signed 7/7 Becomes International Law"
 date:   2021-05-04 04:20:00 -0600
 categories: World
 tags: UN
-featured-image: ban-nukes.jpg
-featured-image-alt: Ban Nukes 
+featured-image: nuclear-palm.jpg
+featured-image-alt: Nuclear Palm
 dropcap: on 
 featured: yes
 ---

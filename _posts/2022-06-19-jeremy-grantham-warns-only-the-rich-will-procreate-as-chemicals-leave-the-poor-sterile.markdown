@@ -1,8 +1,8 @@
 ---
 layout: post 
-author: Thomas James Blobaum 
+author: Adam Baum 
 title:  "Jeremy Grantham Warns Only The Rich Will Procreate As Chemicals Leave The Poor Sterile"
-date:   2020-02-25 04:20:00 -0600
+date:   2022-06-19 04:20:00 -0600
 categories: USA Politics
 featured-image: jeremy-grantham.jpg
 featured-image-alt: Jeremy Grantham 
