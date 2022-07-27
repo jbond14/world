@@ -4,9 +4,9 @@ author: Thomas James Blobaum
 title: "Doomsday Planet Nibiru Has Cameo in Star Trek Into Darkness"
 date: 2013-05-17 04:44:00 -0600
 categories: USA
+tags: Nibiru StarTrek
 featured-image: planet-nibiru.jpg
 featured-image-alt: Planet Nibiru
-tags: Nibiru "Star Trek"
 source: https://www.space.com/21165-star-trek-nibiru-doomsday-planet.html 
 ---
 The new "Star Trek" film warped into on Thursday (May 16) and space enthusiasts may find something familiar in the opening scenes of the fictional universe: a made-up planet named Nibiru.
