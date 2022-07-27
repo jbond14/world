@@ -1,10 +1,17 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\_archives",
+    "\\_data",
     "\\_includes",
     "\\_layouts",
-    "\\_posts"
+    "\\_posts\\entertainment",
+    "\\_posts\\thomas",
+    "\\_sass",
+    "\\_sass\\minima"
   ],
-  "SelectedNode": "\\_includes\\postbox.html",
+  "SelectedNode": "\\_includes\\header.html",
   "PreviewInSolutionExplorer": false
 }
