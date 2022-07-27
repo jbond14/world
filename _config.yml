@@ -40,19 +40,19 @@ og_image: /assets/images/opengraph.png
 
 # theme: bombpress
 
- jekyll-archives:
-   enabled: all
-   layout: archive
-   permalinks:
-     year: '/:year/'
-     month: '/:year/:month/'
-     day: '/:year/:month/:day/'
-     tag: '/tag/:name/'
-     category: '/category/:name/'
+# jekyll-archives:
+#   enabled: all
+#   layout: archive
+#   permalinks:
+#     year: '/:year/'
+#     month: '/:year/:month/'
+#     day: '/:year/:month/:day/'
+#     tag: '/tag/:name/'
+#     category: '/category/:name/'
 
 plugins: 
   - jekyll-feed
-  - jekyll-archives
+  # - jekyll-archives
   - jekyll-seo-tag
   # - jekyll-news-sitemap
   - jekyll-sitemap
