@@ -2,9 +2,9 @@
 layout: post
 author: tblobaum 
 title: "Kylo Ren Of ‘Star Wars: The Force Awakens’ Was Inspired By The Nazis in Nebraska"
-date: 2022-01-01 04:44:00 -0600
+date: 2015-11-28 04:44:00 -0600
 categories: Entertainment 
-tags: Nebraska "Star Wars" Nazis "Kylo Ren"
+tags: Nebraska StarWars Nazis KyloRen
 featured-image: kylo-ren-nazis.jpg
 featured-image-alt: Kylo Ren regrouped the Nazis
 dropcap: no 
