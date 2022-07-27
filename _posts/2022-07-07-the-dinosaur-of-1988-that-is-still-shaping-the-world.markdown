@@ -3,7 +3,7 @@ layout: post
 author: Adam Baum 
 title:  "The Dinosaur Of 1988"
 date:   2022-07-07 04:20:00 -0600
-categories: USA Politics
+categories: USA Politics Entertainment
 tags: Roger Blobaum Bunny Frank_Marshall 
 featured-image: roger-rabbit.jpg
 featured-image-alt: Roger Rabbit
