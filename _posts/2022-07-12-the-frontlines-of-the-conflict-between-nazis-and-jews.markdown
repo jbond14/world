@@ -10,7 +10,7 @@ featured-image-alt: Nazis versus Jews
 dropcap: on
 featured: yes
 ---
-“The poor are crazy, the rich just eccentric.” - James Shin Hoo
+"The poor are crazy, the rich just eccentric." - James Shin Hoo
 
 7/25/1986 was the day Thomas Blobaum was born
 7/25/1986 is 14 days to 8/8 [1][2]
