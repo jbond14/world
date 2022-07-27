@@ -1,14 +1,13 @@
 ---
 layout: post 
 author: Adam Baum 
-title:  "The Curious Case Of Baalzebul"
-date:   2022-06-19 04:20:00 -0600
+title: "The Curious Case Of Baalzebul"
+date: 2022-06-19 04:20:00 -0600
 categories: World
-tags: Bible Jeroboam Baal Baalzebul Baalzebub Doomsday 
+tags: Bible Jeroboam Baal Doomsday Baalzebul Baalzebub 
 featured-image: sun-god.jpg
 featured-image-alt: The ball in the sky 
 ---
-
 Baalzebul is not to be confused with the derogatory term Baalzebub. The word Baalzebul is the combination of two very ancient words: ball and civil. I will prove this in the text that follows. The followers of baal have had an impact on our language and thoughts. Allow me to demonstrate.
 
 	1. Bawling 

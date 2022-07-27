@@ -1,27 +1,41 @@
 ---
 layout: post 
 author: Adam Baum 
-title:  "The Curious Case Of Baalzebul"
-date:   2022-06-19 04:20:00 -0600
+title:"Patriarchs: the sons of Jeroboam and Aaron both descend from the sex cult of the golden bull"
+date: 2022-06-23 04:20:00 -0600
 categories: World
-tags: Doomsday Baal Baalzebul Baalzebub Jeroboam 
-featured-image: sun-god.jpg
-featured-image-alt: The ball in the sky 
+tags: Bible Jeroboam Aaron Baal Baalzebul Patriarch 
+featured-image: goldencalf.jpg
+featured-image-alt: Golden calf
 ---
+Aaron lead the people astray with the sex cult of the golden bull. 
+Jeroboam lead the people astray with the sex cult of the golden bull. 
 
-Baalzebul is not to be confused with the derogatory term Baalzebub. The word Baalzebul is the combination of two very ancient words: ball and civil. I will prove this in the text that follows. The followers of baal have had an impact on our language and thoughts. Allow me to demonstrate.
+Aaron's sons are the Kohanim, Cohen, Kahn, Kahane, etc, families. 
+Jeroboam's sons are the Bloombaum, Bourbon, Bimbo, Blobaum, Bumbu, Pompeo, etc, families. 
 
-	1. Bawling 
-	2. Ball Dance 
-	3. Sports 
-	4. Sun
+Aaron and his sons were conscripted to serve in the temple until the end of time as punishment.
+Jeroboam and his sons were eradicated as punishment. 
 
-1. What happens when someone is bawling their eyes out? The people in the vicinity usually behave in a more civilized way. Bawling civilizes people. That's Baalzebul.
+Aaron and his sons were spared because they were related to Moses. 
+Jeroboam and his sons were not spared because there were not related to Moses. 
 
-2. When ball dances are thrown everyone attending is usually in their best attire and on their best behavior. The ball civilizes the people if only just for one night. That's Baalzebul. Ball + civil.
+Aaron's sons became the Cohen and the Kohanim the priestly caste of Judaism. 
+Jeroboam sons all perished except the one that got away. 
 
-3. Boys started being taught to play with balls because it civilizes them. Sports games are right alongside religion for the Japanese. Playing with a ball makes the people more civilized. That's Baalzebul. Ball + civil.
+There is an ancient custom that says when you eradicate a family you must let the youngest boy survive so as to not upset the Lord. 
 
-4. Worshippers of the ball in the sky know an ancient and simple truth: the predators and criminals dont like the daylight. The ball in the sky keeps the whole world more civilized until it goes down for the day. That's Baalzebul.
+Cohen is an owner of english and other prominent languages.
+Jeroboam is an owner of english and other prominent languages. 
 
-I have explained to you how the god of Jeroboam has remained powerful into modern times. 
+Aaron made the golden bull and then told everyone to go to bed. 
+Jeroboam also made the golden bull and then told everyone his name which means increase the people.
+
+The golden calf is like a boy taken from his mother and raised to fight a war by the nation. 
+These boys are sacrificed in their youth for the good of the people. 
+In the same way, a boy calf is eaten as veal at a young age, sacrificed so the people can have milk. 
+
+Jeroboam faced off in a phony war with his dyslexic brother King Rosenbaum. 
+Their plan was to divide and conquer after learning Egypt was summoning an army to re-enslave them with. 
+
+
