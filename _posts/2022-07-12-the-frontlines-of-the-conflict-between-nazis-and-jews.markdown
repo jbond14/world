@@ -5,7 +5,7 @@ title:  "The Frontlines of the Conflict Between Nazis and Jews"
 date:   2022-07-12 04:20:00 -0600
 categories: World
 tags: Nazis Jews
-featured-image: nazis-jews.jpg
+featured-image: jew-nazi.jpg
 featured-image-alt: Nazis versus Jews
 dropcap: on
 featured: yes
