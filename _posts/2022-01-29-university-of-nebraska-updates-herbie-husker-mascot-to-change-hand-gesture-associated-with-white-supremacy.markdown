@@ -3,8 +3,8 @@ layout: post
 author: Thomas James Blobaum 
 title:  "University of Nebraska updates Herbie Husker mascot to change hand gesture associated with white supremacy"
 date:   2022-01-29 04:20:00 -0600
-categories: USA 
-tags: Blackshirts Politics Nebraska Sports
+categories: USA Politics 
+tags: Nebra Blackshirts Nebraska Sports Football College Conspiracy 
 featured-image: herbie.jpg
 featured-image-alt: Herbie Husker falls under attack 
 ---

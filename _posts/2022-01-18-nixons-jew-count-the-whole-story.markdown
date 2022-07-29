@@ -1,10 +1,10 @@
 ---
 layout: post
 author: Thomas James Blobaum 
-title:  "Nixon’s Jew Count: the Whole Story!"
-date:   2022-01-18 04:44:00 -0600
-categories: USA 
-tags: Anti-Semitism Nixon  
+title: "Nixon’s Jew Count: the Whole Story!"
+date: 2022-01-18 04:44:00 -0600
+categories: USA Government 
+tags: antisemitism Nixon Nazi 
 featured-image: nixon.jpg
 featured-image-alt: Richard Nixon
 ---

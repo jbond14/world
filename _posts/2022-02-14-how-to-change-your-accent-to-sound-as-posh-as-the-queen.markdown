@@ -1,10 +1,10 @@
 ---
 layout: post
-author: Thomas James Blobaum 
+author: Jim Blobaum 
 title:  "How to Change Your Accent to Sound As Posh As the Queen"
 date:   2022-02-14 04:44:00 -0600
-categories: USA Britain 
-tags: RP American
+categories: USA Nebraska 
+tags: RP America Britain United Kingdom 
 featured-image: general-american-accent.jpg
 featured-image-alt: General American
 ---

@@ -3,7 +3,8 @@ layout: post
 author: Thomas James Blobaum 
 title:  "German Ghost Town in the Heart of China"
 date:   2022-02-06 04:44:00 -0600
-categories: China Germany Center Zion 
+categories: World China Germany 
+tags: Center Zion 
 featured-image: shanghai.jpg
 featured-image-alt: Shanghai
 ---

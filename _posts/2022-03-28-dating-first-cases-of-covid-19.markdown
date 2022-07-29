@@ -4,7 +4,7 @@ author: David L. Roberts
 title: "Dating first cases of COVID-19"
 date: 2022-03-28 04:20:00 -0600
 categories: World  
-tags: 
+tags: Conspiracy COVID-19
 featured-image: opengraph.png
 featured-image-alt: Default Image
 dropcap: on 

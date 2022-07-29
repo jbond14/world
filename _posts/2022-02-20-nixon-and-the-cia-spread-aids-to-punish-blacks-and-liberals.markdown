@@ -3,7 +3,8 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Nixon and the CIA spread AIDS to punish Blacks and Liberals"
 date:   2022-02-20 04:44:00 -0600
-categories: Drugs Health USA Nixon  
+categories: USA Health Government
+tags: Nixon Drugs Drug-War Racism 
 featured-image: aids.jpg
 featured-image-alt: AIDs
 ---

@@ -3,8 +3,8 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Re-envisioning the US National Security Strategy in the Face of Runaway Population Growth"
 date:   2022-02-22 1:11:11 -0600
-categories: US Politics
-tags: Nixon
+categories: USA Government Politics
+tags: Nixon Gov Kissinger 
 featured-image: national-security.jpg
 featured-image-alt: National Security Community 
 ---

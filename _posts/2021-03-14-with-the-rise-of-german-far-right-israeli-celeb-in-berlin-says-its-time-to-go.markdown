@@ -1,10 +1,10 @@
 ---
 layout: post
 author: Thomas James Blobaum 
-title:  "With the Rise of German Far-Right, Israeli Celeb in Berlin Say it’s Time to Go"
-date:   2021-03-14 04:20:00 -0600
-categories: World
-tags: Berlin Israel
+title: "With the Rise of German Far-Right, Israeli Celeb in Berlin Say it’s Time to Go"
+date: 2021-03-14 04:20:00 -0600
+categories: World Germany Israel Religion 
+tags: Berlin Celebrity Far-Right
 featured-image: german-right.jpg
 featured-image-alt: Kein Mensch Ist Illegal
 dropcap: off 

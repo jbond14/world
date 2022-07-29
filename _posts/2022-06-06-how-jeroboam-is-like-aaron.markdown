@@ -1,9 +1,9 @@
 ---
 layout: post 
 author: Adam Baum 
-title: "Patriarchs: the sons of Jeroboam and Aaron both descend from the sex cult of the golden bull"
+title: "The sons of Jeroboam and the sons of Aaron both descend from an ancient sex cult of the golden bull"
 date: 2022-06-06 04:20:00 -0600
-categories: World
+categories: Religion
 tags: Bible Jeroboam Aaron Baal Baalzebul Patriarch 
 featured-image: goldencalf.jpg
 featured-image-alt: Golden calf

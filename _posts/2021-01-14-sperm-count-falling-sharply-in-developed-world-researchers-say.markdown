@@ -3,8 +3,8 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Sperm Count Falling Sharply in Developed World, Researchers Say"
 date:   2021-01-14 04:20:00 -0600
-categories: Health  
-tags: West 
+categories: World Health  
+tags: West Doomsday
 featured-image: human-sperm-and-egg-cell.jpg
 featured-image-alt: Human sperm and egg cell
 dropcap: on

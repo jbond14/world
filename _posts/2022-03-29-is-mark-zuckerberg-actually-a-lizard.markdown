@@ -4,7 +4,7 @@ author: Alex Wilson
 title: "Is Mark Zuckerberg actually a lizard?"
 date: 2022-03-29 04:20:00 -0600
 categories: World  
-tags: 
+tags: antisemitism Conspiracy
 featured-image: jewzilla.jpg
 featured-image-alt: Jewzilla
 dropcap: on 

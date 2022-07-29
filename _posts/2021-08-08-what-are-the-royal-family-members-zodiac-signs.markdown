@@ -1,10 +1,10 @@
 ---
 layout: post 
 author: Thomas James Blobaum 
-title:  "What Are the Royal Family Members’ Zodiac Signs?"
-date:   2021-08-08 1:11:11 -0600
-categories: World
-tags: Royal Family
+title: "What Are the Royal Family Members’ Zodiac Signs?"
+date: 2021-08-08 1:11:11 -0600
+categories: Religion
+tags: Royal Family Birthday 
 featured-image: zodiac/best/black-astrology.png
 featured-image-alt: Astrology
 ---

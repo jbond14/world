@@ -1,9 +1,10 @@
 ---
 layout: post
 author: Thomas James Blobaum 
-title:  "The roots of Organic Farming lie in fascism"
-date:   2022-01-11 04:20:00 -0600
+title: "The roots of Organic Farming lie in fascism"
+date: 2022-01-11 04:20:00 -0600
 categories: World
+tags: Organic Farming Fascism Nazi
 featured-image: organic.jpg
 featured-image-alt: Organic 
 dropcap: on 

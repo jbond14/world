@@ -3,8 +3,8 @@ layout: post
 author: Susie Cagle
 title: "German neo-Nazis take to organic farming"
 date: 2022-03-26 04:20:00 -0600
-categories: World  
-tags: 
+categories: World  Germany 
+tags: GMO Organic Farming Nazi Fascism
 featured-image: diet-far-right-germany.webp
 featured-image-alt: Organic
 dropcap: on 

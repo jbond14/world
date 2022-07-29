@@ -1,10 +1,10 @@
 ---
 layout: post
 author: Thomas James Blobaum 
-title:  "What Is The Sabbath Year?"
-date:   2022-02-02 04:20:00 -0600
-categories: World
-tags: Judaism Jews 
+title: "What Is The Sabbath Year?"
+date: 2022-02-02 04:20:00 -0600
+categories: Israel Religion
+tags: Judaism Jews Sabbath Shemitah Patriarchy Farming  
 featured-image: sabbath-year.jpg
 featured-image-alt: Sabbath Year 
 dropcap: yes

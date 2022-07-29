@@ -1,9 +1,10 @@
 ---
 layout: post
 author: Thomas James Blobaum 
-title:  "Why American Jews Are Moving to Germany"
-date:   2021-04-20 04:20:00 -0600
-categories: US
+title: "Why American Jews Are Moving to Germany"
+date: 2021-04-20 04:20:00 -0600
+categories: USA Germany Religion
+tags: Jews Migrants 
 featured-image: no-one-illegal.jpg
 featured-image-alt: Kein Mensch Ist Illegal
 dropcap: on 

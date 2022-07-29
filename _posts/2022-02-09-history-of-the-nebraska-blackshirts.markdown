@@ -1,10 +1,10 @@
 ---
 layout: post
 author: Thomas James Blobaum 
-title:  "History of the Nebraska Blackshirts"
-date:   2022-02-09 04:44:00 -0600
+title: "History of the Nebraska Blackshirts"
+date: 2022-02-09 04:44:00 -0600
 categories: Nebraska 
-tags: Blackshirts 
+tags: Blackshirts Conspiracy 
 featured-image: blackshirts-50th.jpg
 featured-image-alt: Nebraska Blackshirts 
 ---

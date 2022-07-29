@@ -4,7 +4,7 @@ author: Adam Baum
 title: "Farmers’ Markets Have Unwelcome Guests: Fascists"
 date: 2022-03-24 04:20:00 -0600
 categories: USA  
-tags: 
+tags: Fascism Farming Markets Nazis
 featured-image: fascist-farmers.jpg
 featured-image-alt: Fascist farmers 
 dropcap: on 

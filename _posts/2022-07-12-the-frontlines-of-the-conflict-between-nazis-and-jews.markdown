@@ -4,7 +4,7 @@ author: Adam Baum
 title: "The Front Lines of the War Between Nazis and Jews"
 date: 2022-07-12 04:20:00 -0600
 categories: World
-tags: Nazis Jews
+tags: Nazis Jews War
 featured-image: jew-nazi.jpg
 featured-image-alt: Nazis versus Jews
 dropcap: on

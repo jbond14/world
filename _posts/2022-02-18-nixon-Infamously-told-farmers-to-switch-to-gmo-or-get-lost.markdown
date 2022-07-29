@@ -4,8 +4,8 @@ author: Thomas Blobaum
 username: tblobaum 
 title: "Nixon Infamously Told Farmers To Switch To GMO Or Get Lost"
 date: 2022-02-18 04:44:00 -0600
-categories: USA 
-tags: GMO Organic Nixon  
+categories: USA Government 
+tags: GMO Organic Nixon Kissinger Farming Glyphosate 
 featured-image: irrigation.jpg
 featured-image-alt: Irrigated Farming
 ---

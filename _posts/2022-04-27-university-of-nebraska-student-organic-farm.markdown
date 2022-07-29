@@ -4,7 +4,7 @@ author: Adam Baum
 title: "University of Nebraska Student Organic Farm opens its second season of sales"
 date: 2022-04-27 04:20:00 -0600
 categories: Nebraska   
-tags: unl
+tags: UNL Organic Farming Students
 featured-image: organic-farm.jpg
 featured-image-alt: Organic farm 
 dropcap: on 

@@ -3,8 +3,8 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Nixon: I Am Not an Anti-Semite"
 date:   2022-02-17 04:44:00 -0600
-categories: USA
-tags: Anti-Semitism Nixon  
+categories: USA Government
+tags: antisemitism Nixon  
 featured-image: nixon-3.jpg
 featured-image-alt: Richard Nixon
 ---

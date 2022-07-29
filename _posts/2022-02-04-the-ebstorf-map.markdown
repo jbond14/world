@@ -4,8 +4,8 @@ author: Thomas Blobaum
 username: tblobaum 
 title: "Zion is the Navel of the World"
 date: 2022-02-04 04:20:01 -0600
-categories: World
-tags: Navel 
+categories: Religion
+tags: Navel Nebula Nebra 
 featured-image: jerusalem-center.jpg
 featured-image-alt: Cheerios
 featured: no

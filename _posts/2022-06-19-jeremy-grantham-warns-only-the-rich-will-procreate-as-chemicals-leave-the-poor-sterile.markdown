@@ -1,9 +1,10 @@
 ---
 layout: post 
 author: Adam Baum 
-title:  "Jeremy Grantham Warns Only The Rich Will Procreate As Chemicals Leave The Poor Sterile"
-date:   2022-06-19 04:20:00 -0600
+title: "Jeremy Grantham Warns Only The Rich Will Procreate As Chemicals Leave The Poor Sterile"
+date: 2022-06-19 04:20:00 -0600
 categories: USA Politics
+tags: Fertility Rich Poor Jeremy Grantham Depopulation
 featured-image: jeremy-grantham.jpg
 featured-image-alt: Jeremy Grantham 
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post 
 author: Adam Baum 
-title:  "The Doomsday Prophecy of Dr. Geert Vanden Bossche"
-date:   2022-01-23 04:22:00 -0600
-categories: Politics 
+title: "The Doomsday Prophecy of Dr. Geert Vanden Bossche"
+date: 2022-01-23 04:22:00 -0600
+categories: Religion 
 tags: Doomsday COVID-19 Health Pandemic 
 featured-image: doomsday-meteor.jpg
 featured-image-alt: Meteor 

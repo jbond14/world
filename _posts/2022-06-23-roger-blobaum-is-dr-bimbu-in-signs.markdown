@@ -1,10 +1,10 @@
 ---
 layout: post 
 author: Adam Baum 
-title:  "Dr. Roger Blobaum is Dr. Bimbu in Signs"
-date:   2022-06-23 04:20:00 -0600
-categories: Entertainment
-tags: Roger Blobaum Bimbu Signs Hollywood
+title: "Dr. Blobaum is Dr. Bimbu in Signs"
+date: 2022-06-23 04:20:00 -0600
+categories: Entertainment F
+tags: Roger Blobaum Bimbu Signs Hollywood arming Organic GMO 
 featured-image: dr-bimbu.jpg
 featured-image-alt: Dr. Bimbu
 dropcap: on

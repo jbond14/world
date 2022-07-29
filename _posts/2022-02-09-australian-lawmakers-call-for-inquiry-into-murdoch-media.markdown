@@ -1,9 +1,10 @@
 ---
 layout: post
 author: Thomas James Blobaum 
-title:  "Australian lawmakers call for inquiry into Murdoch media"
-date:   2021-09-12 04:44:00 -0600
-categories: Australia World Murdoch
+title: "Australian lawmakers call for inquiry into Murdoch media"
+date: 2021-09-12 04:44:00 -0600
+categories: World Australia 
+tags: Government Rupert Murdoch 
 featured-image: murdoch.jpg
 featured-image-alt: Rupert Murdoch 
 ---

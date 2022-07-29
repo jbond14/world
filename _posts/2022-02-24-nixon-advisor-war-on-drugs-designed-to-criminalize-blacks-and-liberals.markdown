@@ -3,7 +3,8 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Nixon Advisor: War on Drugs designed to “Criminalize” Blacks and Liberals"
 date:   2022-02-24 04:44:00 -0600
-categories: USA
+categories: USA Government
+tags: Drugs DrugWar Crime Blacks Liberals War Nixon 
 featured-image: drugwarprotest.jpg
 featured-image-alt: Drug War Protest 
 tags: Nixon Drugs

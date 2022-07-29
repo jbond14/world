@@ -3,8 +3,8 @@ layout: post
 author: Adam Baum 
 title: "The Curious Case Of Baalzebul"
 date: 2022-06-06 04:20:00 -0600
-categories: World
-tags: Bible Jeroboam Baal Doomsday Baalzebul Baalzebub 
+categories: Religion 
+tags: Bible Jeroboam Baal Baalzebul Baalzebub Doomsday
 featured-image: sun-god.jpg
 featured-image-alt: The ball in the sky 
 ---

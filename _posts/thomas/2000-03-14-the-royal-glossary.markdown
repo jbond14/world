@@ -1,15 +1,16 @@
 ---
 layout: post
 author: Thomas James Blobaum 
-title:  "The Royal Glossary"
-date:   2000-03-14 02:22:22 -0600
-categories: World  
+title: "The Royal Glossary"
+date: 2000-03-14 02:22:22 -0600
+categories: World Religion 
+tags: 
 featured-image: royal-background.jpg
 featured-image-alt: 
 featured: no 
 dropcap: no  
 ---
-TIP: (bpdtjg) - (hrl) - [aeiouy] - (hrlnm) - [bpdtjg] - (hrl) - [aeiouy] - (hrlnm)
+Hint: (bpdtjg) - (hrl) - [aeiouy] - (hrlnm) - [bpdtjg] - (hrl) - [aeiouy] - (hrlnm)
 abalienate
 abalienated
 abalienating

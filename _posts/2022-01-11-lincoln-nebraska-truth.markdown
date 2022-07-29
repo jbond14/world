@@ -3,8 +3,8 @@ layout: post
 author: Adam Baum 
 title: "911 system of emergency communications began in Lincoln plus other cool facts"
 date: 2022-01-11 04:20:00 -0600
-categories: Navel 
-tags: Nebraska 911 Signs Navel Nebula 
+categories: Nebraska  
+tags: 911 Signs Navel Nebula Nebra 
 featured-image: usa-fans.jpg 
 featured-image-alt: Nebraska 
 dropcap: on 
