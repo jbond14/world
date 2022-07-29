@@ -2,10 +2,10 @@
 layout: post
 author: Thomas Blobaum
 username: tblobaum
-title:  "The University of Nebraska Supports Fascists Who Are Sterilizing Billions Of People"
-date:   2022-03-05 00:07:57 -0600
-categories: World  
-tags: Nebraska Navel Naboo Nibiru Nebra Nazis Blackshirts Cornhuskers 
+title: "The University of Nebraska Supports Fascists Who Are Sterilizing Billions Of People"
+date: 2022-03-05 00:07:57 -0600
+categories: USA  
+tags: Nebraska Navel Naboo Nibiru Nebra Nazis Blackshirts Cornhuskers Depopulation 
 featured-image:  ne-herbie.jpg
 featured-image-alt:  Nebraska Football
 ---
