@@ -22,13 +22,13 @@ title: Hacker Wizard
 email: feedback@hackerwizard.com
 address: 276 Fifth Avenue, New York 10001
 description: >- # this means to ignore newlines until "baseurl:"
-  The New World Post is a collection of news articles from the night sky brought together to raise awareness of their importance. The whole is greater than the sum of the parts. 
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jbond14.github.io/world" # the base hostname & protocol for your site, e.g. http://example.com
-google_analytics: UA-217839357-1 
-twitter_username: the_real_nwp
-github_username:  tnwp
-instagram_username: thenewworldpost 
+google_analytics: UA-236316587-1
+twitter_username: 
+github_username: 
+instagram_username:  
 rss: feed.xml
 author: tnwp
 logo: /assets/images/logo.jpg
