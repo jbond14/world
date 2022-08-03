@@ -1,17 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows",
-    "\\_archives",
-    "\\_data",
+    "\\assets",
+    "\\assets\\images",
+    "\\assets\\images\\conspiracy",
+    "\\_authors",
     "\\_includes",
-    "\\_layouts",
-    "\\_posts\\entertainment",
-    "\\_posts\\thomas",
-    "\\_sass",
-    "\\_sass\\minima"
+    "\\_posts",
+    "\\_posts\\archaeology",
+    "\\_posts\\china",
+    "\\_posts\\_unused"
   ],
-  "SelectedNode": "\\_includes\\header.html",
+  "SelectedNode": "\\_posts\\2022-06-19-jeremy-grantham-warns-only-the-rich-will-procreate-as-chemicals-leave-the-poor-sterile.markdown",
   "PreviewInSolutionExplorer": false
 }
