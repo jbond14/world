@@ -3,8 +3,8 @@ layout: post
 author: 
 title:  "August 2013 NASDAQ flash freeze is another sequel to 9/11"
 date: 2013-08-22 04:44:00 -0600
-categories: USA Politics
-tags: 911 DOW MadWorld
+categories: Politics
+tags: 911 DOW MadWorld USA
 featured-image: nasdaq.jpg
 featured-image-alt: NASDAQ
 ---
