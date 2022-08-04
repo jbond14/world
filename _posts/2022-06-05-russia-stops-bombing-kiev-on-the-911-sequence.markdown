@@ -9,6 +9,7 @@ featured-image: missiles-target-kiev.jpg
 featured-image-alt: Missiles target Kiev after month of silence
 dropcap: no
 featured: no
+source: https://www.upi.com/Top_News/World-News/2022/06/05/ukraine-russian-missiles-target-kyiv-first-time-month-capital/3811654438205/
 ---
 Russian missiles on Sunday targeted the Ukraine capital Kyiv for the first time since April 29. Russia had previously signaled to 9/11 via the <a href="/politics/2022/02/22/9-11-sequence.html">9/11 sequence</a> having given Kiev a break on the day 4/30/2022 which is on the 9/11 sequence. 
 
