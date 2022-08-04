@@ -22,6 +22,7 @@ Did you know the queen of england's official birthday is 14 months after her rea
 2/19/2016 -  Grandpa Victor E Wager died after being born 7/7/1930 and having turned 77 on 7/7/7  
 ...14 months  
 4/11/2017 -  Wrongfully arrested for educational political lecture via email and the government made this arrest before first policing the nebraska blackshirts conspiracy that initiated the lecture  
+...14 months  
 7/4/2018 -  Freedom from the Lincoln Regional Center the concentration camp of the blackshirts  
 ...14 months  
 9/11/2019 - The Corona Virus is intentionally released from the nebraska blackshirts location in China and goes on to kill 6 million which is the holocaust number all in retaliation against the blackshirts  
