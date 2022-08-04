@@ -3,8 +3,8 @@ layout: post
 author: 
 title:  "Everybody Draw Mohammed Day"
 date: 2010-05-19 04:44:00 -0600
-categories: Religion
-tags: Mohammed SouthPark Trey Parker Matt Stone
+categories: Politics
+tags: 9/11 Mohammed SouthPark TreyParker MattStone
 featured-image: south-park-mohammad.jpg
 featured-image-alt: South Park Mohammad
 ---
