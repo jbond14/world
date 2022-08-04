@@ -41,8 +41,7 @@ layout: default
   <div class="post-content e-content {% if page.dropcap %}dropcap{% endif %}" itemprop="articleBody">
       {{ content }}
 
-
-      {%- if post.tags -%}
+       
       <div class="post-tags">
           {% octicon tag height:24 class:"right left" aria-label:hi %}
           {% if post %}
@@ -54,15 +53,14 @@ layout: default
           <a href="{{site.baseurl}}/tag/{{tag|slugify}}">{{tag}}</a>
           {% unless forloop.last %}&nbsp;{% endunless %}
           {% endfor %}
-      </div>
-      {%- endif -%}
+      </div> 
 
 
       {%- if page.source -%}
 
       <h1 class="archives-header">
           Source
-          <div class="right">{% octicon link height:24 class:"right left" aria-label:Comment %}</div>
+          <div class="right">{% octicon link height:24 class:"right left" %}</div>
       </h1>
       <p><a href="{{ page.source }}" data-iframely-url></a></p>
 

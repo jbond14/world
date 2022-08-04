@@ -7,6 +7,7 @@ categories: USA Politics
 tags: Fertility Rich Poor Jeremy Grantham Depopulation
 featured-image: jeremy-grantham.jpg
 featured-image-alt: Jeremy Grantham 
+source: https://www.cnbc.com/2020/02/10/gmos-grantham-warns-only-the-rich-will-be-able-to-have-kids-due-to-chemical-toxicity.html
 ---
 USA– High-profile investor Jeremy Grantham warned in a letter that falling birth rates in the developed world could accelerate in coming years due to increasing chemical toxicity, allowing only wealthy people to have children.
 
