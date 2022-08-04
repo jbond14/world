@@ -11,5 +11,7 @@ dropcap: no
 featured: no
 ---
 
-The royal family's public name is bourbon. The royal family's old name, or private name, is blobaum. The royal family is an owner of the english language and multiple other prominent languages. As much as 7% of the the terms in the dictionary were derived with the king's name in mind. 
+The royal family's public name is bourbon. The royal family's old name, or private name, is blobaum. 
+
+The royal family is an owner of the english language and multiple other prominent languages. As much as 7% of the the terms in the dictionary were derived with the king's name in mind. 
 
