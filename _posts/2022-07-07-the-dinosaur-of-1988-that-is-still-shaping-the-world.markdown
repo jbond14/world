@@ -10,7 +10,9 @@ featured-image-alt: Roger Rabbit
 dropcap: on
 featured: yes
 ---
-Roger Blobaum is the dinosaur of 1988. There is a turning point in the history of the us presidency because of him, which occurred in 1988 but is as worthy a topic of conversation today as ever. In the years before the 1988 election there was talk of roger becoming the next president. Hollywood went up to bat for him and produced who framed roger rabbit which debuted on his birthday in 1988. 
+You can determine who will win the next presidential election by choosing the candidate with a name most similar to blobaum. 
+
+Roger Blobaum is the dinosaur of 1988 that caused this. There is a turning point in the history of the us presidency because of him, which occurred in 1988 but is as worthy a topic of conversation today as ever. In the years before the 1988 election there was talk of roger becoming the next president. Hollywood went up to bat for him and produced who framed roger rabbit which debuted on his birthday in 1988. 
 
 Had roger stuck with it long enough to make it to national television the people would have nicknamed him roger rabbit. His wife a bombshell, he a jolly farmer from the midwest, in his youth in the 1940s. Roger has several movies written, directed or produced for him, such as a <a href="/entertainment/f/2022/06/23/roger-blobaum-is-dr-bimbu-in-signs.html">cameo in Signs by M Night Shyamalan</a> as Dr. Bimbu. 
 
