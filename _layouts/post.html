@@ -83,23 +83,23 @@ layout: default
       {%- endif -%}
 
       {%- if page.comments == false -%}
-      <h1 class="archives-header">
-          Comments <span>closed</span>
-          <div class="right">{% octicon stop height:24 class:"right left" aria-label:Comment %}</div>
-      </h1>
+          <h1 class="archives-header">
+              Comments <span>closed</span>
+              <div class="right">{% octicon stop height:24 class:"right left" aria-label:Comment %}</div>
+          </h1>
       {%- else -%}
 
-      <h1 class="archives-header">
-          Comment <span><small>with GitHub</small></span>
-          <div class="right">{% octicon comment height:24 class:"right left" aria-label:Comment %}</div>
-      </h1>
-      <script src="https://utteranc.es/client.js"
-              repo={% site.utterances %}""
-              issue-term="pathname"
-              theme="github-light"
-              crossorigin="anonymous"
-              async>
-      </script>
+          <h1 class="archives-header">
+              Comment <span><small>with GitHub</small></span>
+              <div class="right">{% octicon comment height:24 class:"right left" aria-label:Comment %}</div>
+          </h1>
+          <script src="https://utteranc.es/client.js"
+                  repo="{{site.utterances}}"
+                  issue-term="pathname"
+                  theme="github-light"
+                  crossorigin="anonymous"
+                  async>
+          </script>
       {%- endif -%}
 
       <form action="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}{{ site.github.source.path }}/{{ page.path }}">
