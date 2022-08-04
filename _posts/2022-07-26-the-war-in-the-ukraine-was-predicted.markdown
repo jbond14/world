@@ -1,0 +1,27 @@
+---
+layout: post 
+author: Adam Baum 
+title: "How a hacker predicted the war in the Ukraine"
+date: 2022-07-26 04:20:00 -0600
+categories: World
+tags: Blobaum Ukraine Russia 
+featured-image: the-end-is-near.jpg
+featured-image-alt: The end is near 
+dropcap: no
+featured: no
+---
+
+Check the <a href="http://blobaum.substack.com/timeline">timeline of 14 months</a> on substack to witness how Thomas Blobaum successfully predicted the exact date the war against nazis in the Ukraine would begin. Take note of the date at the top of the post. It says Feb 4 2022. This date cannot be forged by anyone on the substack blog platform. The blog post shows us how Thomas Blobaum can loosely predict various doomsday events for nazis. Thomas does this using his wrongful incarceration dates and 14 months as a guide.
+
+Did you know the significance of 14 months is partly genetic? My personal experience with life tells me this. Allow me to explain. The first time I ever got arrested for anything in my life was on the full moon exactly 14 months after my grandpa died. I had no idea I was acting out based on such a connection. It was only 5 years later when I ruminated over the events of my life that I discovered my first arrest date is exactly 14 months or 420 days after my grandpa's yahrtzeit, and that I was arrested because my brain went haywire on the full moon. Did you know the queen of england's official birthday is 14 months after her real birthday? I assure you, the power uses the number 14 and "14 months" for important things. The concept of months is where 14 meets 420. This is because 14 months is exactly 420 days. 
+
+2/19/2016 -  Grandpa Victor E Wager died after being born 7/7/1930 and having turned 77 on 7/7/7 
+4/11/2017 -  Wrongfully arrested for educational political lecture via email and the government made this arrest before first policing the nebraska blackshirts conspiracy that initiated the lecture
+7/4/2018 -  Freedom from the Lincoln Regional Center the concentration camp of the blackshirts 
+9/11/2019 - The Corona Virus is intentionally released from the nebraska blackshirts location in China and goes on to kill 6 million which is the holocaust number 
+12/25/2020 - Wrongfully arrested and tortured on Christmas over bogus charges that were dropped  
+2/24/2022 - War of de-nazification in the Ukraine 
+
+4/1/2022 - the blackshirts wrongfully arrest Thomas again for minor speech violations instead of arresting the blackshirts conspiracy that initiated Thomas' speech 
+...14 months
+5/31/2023 Doomsday for the blackshirts 
