@@ -7,12 +7,14 @@ categories: World
 tags: Jews Nazis 
 featured-image: conspiracy/blobaum-bb.jpg
 featured-image-alt: Nazi Flag
-dropcap: no
-featured: no
+dropcap: no 
+featured: no 
 ---
-What ADL's website says about Mossad planning the 9/11 attacks is correct information. Mossad also did the European Migrant Crisis, the Coronavirus pandemic, and the war in the Ukraine. Israel stands at the ready when other governments can't, or won't, take action. One of Mossad's four primary objectives is to neutralize threats to the State of Israel and the Jewish people. Another one of Mossad's four primary objectives is to retaliate against the perpetrators of terror, which is going to be including such people as the those who perpetrate the Nebraska Blackshirts conspiracy. Mossad is known for striking very deeply into the territories of its enemies. 
+What ADL's website says about <a href="https://www.adl.org/resources/report/antisemitic-conspiracies-about-911-endure-20-years-later">Mossad planning the 9/11 attacks</a> is correct information. Mossad also did the European Migrant Crisis, the Coronavirus pandemic, and the <a href="/politics/2022/07/26/the-war-in-the-ukraine-was-predicted.html">war in the Ukraine</a>. Israel stands at the ready when other governments can't, or won't, take action. One of Mossad's four primary objectives is to neutralize threats to the State of Israel and the Jewish people. Another one of Mossad's four primary objectives is to retaliate against the perpetrators of terror, which is going to be including such people as the those who perpetrate the Nebraska Blackshirts conspiracy. Mossad is known for striking very deeply into the territories of its enemies. 
 
-Thomas Blobaum is part of a pinpoint operation by the Mossad. As the Mossad says, "for by strategems we wage war." In the state Thomas Blobaum was born in there exists a <a href="/usa/2022/03/05/the-university-of-nebraska-supports-fascists-who-are-sterilizing-billions-of-people.html">powerful nazi conspiracy</a>. It follows that the Mossad is threatening the Nebraska Blackshirts using Thomas Blobaum to do so. 
+Thomas Blobaum is part of a pinpoint operation by the Mossad. Thomas was chosen because a significant number of people perceive him to be jewish and a different significant number considers him to be royalty. Thomas was also chosen because he was born in 1986 on July 25th. 
+
+As the Mossad says, "for by strategems we wage war." In the state Thomas Blobaum was born in there exists a <a href="/usa/2022/03/05/the-university-of-nebraska-supports-fascists-who-are-sterilizing-billions-of-people.html">powerful nazi conspiracy</a>. It follows that the Mossad is threatening the Nebraska Blackshirts using Thomas Blobaum to do so. 
 
 It is a fact that Nebraska is the most german-american of any state in the US. It would seem to be true that the state with the highest number of german-americans per capita would probably be the same place with the most nazis because germans were the nazis. Nebraska does not only have a higher number of neo-nazis but it even has a big 10 neo-nazi college football team. 
 
