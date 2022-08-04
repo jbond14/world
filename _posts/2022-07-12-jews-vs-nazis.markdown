@@ -18,7 +18,7 @@ It is a fact that Nebraska is the most german-american of any state in the US. I
 
 The twin towers and the nebraska blackshirts have both represented G-d's presence on Earth as the greatest "double tree" from the greatest center of the greatest nation. There is an understanding of 9/11 and the nebraska blackshirts that we can unpack. Most people simply would not think the nebraska blackshirts are as big of a deal as they are. But the majority response is not what is important here. The majority of people people cannot solve advanced math problems. They simply have no idea what is going on. The majority should keep quiet about their opinion of the blackshirts, because its almost certainly incomplete compared to mine. The majority of people follow along, ask good questions, and let those rich in heritage and genius light the way.  
 
-![](conspiracy/911-great-center.jpg)
+![](/assets/images/conspiracy/911-great-center.jpg)
 
 The twin towers in the great economic center were like the double helix in the nucleus of living cells. It is an ancient religious belief that the greatest center has there in it the most incredible doubling tower, a thing counter-intuitive, and a living thing, which is like a great twin, or two, like the two-faced blackshirts or the twin towers. Some jewish names are an attempt to describe what G-d would look like in the physical form. Doubletree is a good an example of this. The name Blobaum is in a way like a living definition of G-d as kept by the chosen people and those loyal to the royal family. 
 
@@ -26,6 +26,6 @@ Mossad wants Blobaum to be the leader of the blackshirts, or failing that the eq
 
 Exactly 1 years 1 month 1 day after the attack there was a sequel to 9/11/2001 on 10/12/2002 which was a Bali bomb which took 202. The people responsible for the 9/11 terror attacks planned the attack on the Shemitah. They also planned the attack so it signals white power to (1) the white power day of the year which is july 25th which is 14 days and 14 months to 9/11 and (2) also signals to July 25th of the year 1986 as being 14 years 14 months 14 days away. July 25th is the reason 1488 is written 14/8/8, because its 14 days to 8/8. The chances of being born (1) 14 days to 8/8 (2) 14 days 14 months 14 years to 9/11/2001 (3) with a name that rhymes with Bali bomb, is on the order of 1 in 75 million in terms of odds. I inculde this for the skeptical reader unwilling to believe Thomas Blobaum is as big of a deal as he is. Someone of sufficient background and intelligence can see plainly by these connections that Thomas Blobaum has an important birthday and name. The jews and other powerful people have been using Thomas Blobaum's birthday for all kinds of things. Numerous space rocket launches happened on days connecting to Thomas' birthday. Google.com was registered when Thomas was 10 years 10 months 10 days. Hollywood has released many movies according to Blobaum's birthday. Even a holiday was created with Thomas and his birthday in mind. 
 
-![](conspiracy/cowboy-day.jpg)
+![](/assets/images/conspiracy/cowboy-day.jpg)
 
 
