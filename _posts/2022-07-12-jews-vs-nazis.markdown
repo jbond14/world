@@ -11,7 +11,7 @@ dropcap: no
 featured: no
 ---
 ## Theory:
-What ADL’s website says about Mossad planning the 9/11 attacks is correct information. Mossad also did the European Migrant Crisis, the Coronavirus pandemic, and the war in the Ukraine. Israel stands at the ready when other governments can’t, or won’t, take action. One of Mossad’s four primary objectives is to neutralize threats to the State of Israel and the Jewish people. Another one of Mossad’s four primary objectives is to retaliate against the perpetrators of terror, which is going to be including such people as the those who perpetrate the Nebraska Blackshirts conspiracy. Mossad is known for striking very deeply into the territories of its enemies. 
+What ADL's website says about Mossad planning the 9/11 attacks is correct information. Mossad also did the European Migrant Crisis, the Coronavirus pandemic, and the war in the Ukraine. Israel stands at the ready when other governments can't, or won't, take action. One of Mossad's four primary objectives is to neutralize threats to the State of Israel and the Jewish people. Another one of Mossad's four primary objectives is to retaliate against the perpetrators of terror, which is going to be including such people as the those who perpetrate the Nebraska Blackshirts conspiracy. Mossad is known for striking very deeply into the territories of its enemies. 
 
 ## Evidence:
 Thomas Blobaum is part of a pinpoint operation by the Mossad. As the Mossad says, “for by strategems we wage war.” In the state Thomas Blobaum was born in there exists a powerful nazi conspiracy. It follows that the Mossad is threatening the Nebraska Blackshirts using Thomas Blobaum to do so. 
